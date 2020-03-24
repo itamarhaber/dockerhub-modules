@@ -1,0 +1,42 @@
+[
+    {
+        "user": "redislabs",
+        "name": "redisearch",
+        "color": "#a6cee3"
+    },
+    {
+        "user": "redislabs",
+        "name": "redisgraph",
+        "color": "#1f78b4"
+    },
+    {
+        "user": "redislabs",
+        "name": "rebloom",
+        "color": "#b2df8a"
+    },
+    {
+        "user": "redislabs",
+        "name": "redistimeseries",
+        "color": "#33a02c"
+    },
+    {
+        "user": "redislabs",
+        "name": "rejson",
+        "color": "#fb9a99"
+    },
+    {
+        "user": "redislabs",
+        "name": "redisjson2",
+        "color": "#e31a1c"
+    },
+    {
+        "user": "redislabs",
+        "name": "redisgears",
+        "color": "#fdbf6f"
+    },
+    {
+        "user": "redisai",
+        "name": "redisai",
+        "color": "#ff7f00"
+    }
+]
